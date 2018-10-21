@@ -12,3 +12,5 @@ $ ./newKey.sh keyname password(optional)
 $ ./newKey.sh laptop
 $ ./newKey.sh laptop supersecret
 ```
+
+Enjoy!
